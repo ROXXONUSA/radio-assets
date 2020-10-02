@@ -32,30 +32,16 @@
      {
      "name": "Throwback 2000s Pop",
      "streamURL": "https://roxxonradio.me/radio/8020/throwbackpop.mp3",
-     "imageURL": "station-classicrock",
+     "imageURL": "",
      "desc": "",
      "longDesc": "Time to reminisce with the Pop hits from the 2000s."
      },
      {
      "name": "DrBeebo's Mix",
      "streamURL": "https://roxxonradio.me/radio/8050/drbeebo.mp3",
-     "imageURL": "station-classicrock",
+     "imageURL": "",
      "desc": "Rock out with DrBeebo.",
      "longDesc": "Ever wonder what Nigel listens to? Well now you can find out. It will definitely surprise you though."
-     },
-     {
-     "name": "2020 Debate Coverage",
-     "streamURL": "https://roxxonradio.me/radio/8070/debate.mp3",
-     "imageURL": "",
-     "desc": "or as we call it, entertainment news.",
-     "longDesc": "This station is only active during debates."
-     },
-     {
-     "name": "Roxxon News",
-     "streamURL": "https://roxxonradio.me/radio/8060/roxxonnews.mp3",
-     "imageURL": "",
-     "desc": "News straight from Roxxon.",
-     "longDesc": "This station will launch starting on Monday, October 5th,"
      }
     ]
 }
