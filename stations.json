@@ -1,0 +1,61 @@
+{
+    "station":
+    [
+     {
+     "name": "US Top 50",
+     "streamURL": "https://roxxonradio.me/radio/8000/todays.mp3",
+     "imageURL": "",
+     "desc": "Top tracks in the US.",
+     "longDesc": "All of the top tracks in the US right now, all on one station."
+     },
+     {
+     "name": "Upcoming Artist Radio",
+     "streamURL": "https://roxxonradio.me/radio/8010/upcomingartist.mp3",
+     "imageURL": "",
+     "desc": "Check out the newest artists here.",
+     "longDesc": "It's always nice to find new music to listen to. Check out these new artists and maybe you'll like em."
+     },
+     {
+     "name": "Throwback 2000s R&B",
+     "streamURL": "https://roxxonradio.me/radio/8040/throwback90srb.mp3",
+     "imageURL": "",
+     "desc": "TLC. Nuff said.",
+     "longDesc": "2000s R&B? For sure."
+     },
+     {
+     "name": "Throwback 2000s Rap & Hip-Hop",
+     "streamURL": "https://roxxonradio.me/radio/8030/throwbackrap.mp3",
+     "imageURL": "",
+     "desc": "2000s Hip-Hop? Fo-sho.",
+     "longDesc": "This station primarily plays the Rap and Hip-Hop hits from the 2000s."
+     },
+     {
+     "name": "Throwback 2000s Pop",
+     "streamURL": "https://roxxonradio.me/radio/8020/throwbackpop.mp3",
+     "imageURL": "station-classicrock",
+     "desc": "",
+     "longDesc": "Time to reminisce with the Pop hits from the 2000s."
+     },
+     {
+     "name": "DrBeebo's Mix",
+     "streamURL": "https://roxxonradio.me/radio/8050/drbeebo.mp3",
+     "imageURL": "station-classicrock",
+     "desc": "Rock out with DrBeebo.",
+     "longDesc": "Ever wonder what Nigel listens to? Well now you can find out. It will definitely surprise you though."
+     },
+     {
+     "name": "2020 Debate Coverage",
+     "streamURL": "https://roxxonradio.me/radio/8070/debate.mp3",
+     "imageURL": "",
+     "desc": "or as we call it, entertainment news.",
+     "longDesc": "This station is only active during debates."
+     },
+     {
+     "name": "Roxxon News",
+     "streamURL": "https://roxxonradio.me/radio/8060/roxxonnews.mp3",
+     "imageURL": "",
+     "desc": "News straight from Roxxon.",
+     "longDesc": "This station will launch starting on Monday, October 5th,"
+     }
+    ]
+}
